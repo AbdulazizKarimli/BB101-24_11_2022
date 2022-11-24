@@ -1,0 +1,15 @@
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.exe
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.deps.json
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.runtimeconfig.json
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.dll
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\bin\Debug\net6.0\C-Sharp-Practice.pdb
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.csproj.AssemblyReference.cache
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.AssemblyInfoInputs.cache
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.AssemblyInfo.cs
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.dll
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\refint\C-Sharp-Practice.dll
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.pdb
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\C-Sharp-Practice.genruntimeconfig.cache
+C:\Users\Kamran\Desktop\C-Sharp-Practice\C-Sharp-Practice\obj\Debug\net6.0\ref\C-Sharp-Practice.dll
